@@ -1,0 +1,12 @@
+.card {
+    height: 35vh;
+    border: 0.5vh solid lavenderblush;
+    overflow-wrap: break-word;
+    box-sizing: content-box;
+    background-color:lightblue;
+}
+
+img {
+    height:10vh;
+    width:10vw;
+}
